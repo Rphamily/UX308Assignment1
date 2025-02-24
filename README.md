@@ -1,3 +1,3 @@
-# UX308Assignment1
+# Chatter
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Rphamily/UX308Assignment1)
+simple chat bot in a custom element
